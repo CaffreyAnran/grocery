@@ -8,6 +8,8 @@
 <a href="Shop.html">Shop.html</a><br>
 <a href="TrackShippingInformation.html">Track Shipping Information.html</a><br>
 <a href="UseSearchingEngine.html">Use Searching Engine.html</a><br>
+<a href="SighIn.html">SignIn</a><br>
+<a href="Register.html">Register New Account</a><br>
 
 You can use the [editor on GitHub](https://github.com/CaffreyAnran/grocery/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
